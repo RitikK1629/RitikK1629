@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikk1629&label=Profile%20views&color=0e75b6&style=flat" alt="ritikk1629" /> </p>
 
-- 🔭 I’m currently working on **CodSoft Internship**
+- 🔭 I have completed my first internship from **CodSoft**
 
 - 🌱 I’m currently learning **Python from NPTEL**
 
